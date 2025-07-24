@@ -6,7 +6,8 @@
 - **Deep learning–based AV segmentation** with separate artery- and vein-specific metrics.
 - **ETDRS grid-based regional analysis** for standardized retinal assessment.
 # Graphical User Interface (GUI)
-![OCTA-AV GUI](images/gui_example.jpg)
+![OCTA-AV GUI](images/gui.jpg)
+![OCTA-AV features](images/features.jpg)
 # Installation
 The installer is a **standalone installer (.exe)** that includes all necessary dependencies.
 - **Download the Full Installer** from the [Link](https://uofi.box.com/s/4khlb5nzhs1jh6o3ulf22k3iajwwspm5).
