@@ -14,13 +14,8 @@ The installer is a **standalone installer (.exe)** that includes all necessary d
 - Once installed, launch the application from your desktop or start menu.
 
 # Graphical User Interface (GUI)
-<p align="center">
-  <img src="images/gui.JPG" alt="OCTA-AV GUI" width="400">
-</p>
-
-<p align="center">
-  <img src="images/features.JPG" alt="OCTA-AV features" width="400">
-</p>
+<img src="images/gui.JPG" alt="OCTA-AV GUI" width="500">
+<img src="images/features.JPG" alt="OCTA-AV features" width="500">
 
 # System Requirements
 - **OS:** Windows 10 or later (64-bit recommended)
