@@ -6,10 +6,10 @@
 - **Deep learning–based AV segmentation** with separate artery- and vein-specific metrics.
 - **ETDRS grid-based regional analysis** for standardized retinal assessment.
 
-<h2 style="color:blue;">Installation</h2>
+## Installation
 The installer is a **standalone installer (.exe)** that includes all necessary dependencies.
 - **Download the Full Installer** from the [Link](https://uofi.box.com/s/4khlb5nzhs1jh6o3ulf22k3iajwwspm5).
-- **Double-click** the downloaded `.exe` file to begin the installation process.
+- **Double-click** the downloaded .exe file to begin the installation process.
 - **Follow the on-screen instructions** to complete the setup.
 - Once installed, launch the application from your desktop or start menu.
 
