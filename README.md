@@ -8,7 +8,7 @@
 
 # Installation
 The installer is a **standalone installer (.exe)** that includes all necessary dependencies.
-- **Download the Full Installer** from the ➡**[Link](https://github.com/masrurarefinsadhin/OCTA-AV/releases/tag/v1.0.0)**.
+- **Download the Full Installer** from the ➡ **[Link](https://github.com/masrurarefinsadhin/OCTA-AV/releases/tag/v1.0.0)**.
 - **Double-click** the downloaded .exe file to begin the installation process.
 - **Follow the on-screen instructions** to complete the setup.
 - Once installed, launch the application from your desktop or start menu.
