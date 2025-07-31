@@ -1,5 +1,5 @@
 # OCTA-ReVA<sup>+</sup>
-**OCTA-AV** is an open-source toolbox that enables **automated artery–vein (AV) segmentation** and **quantitative feature analysis** on **optical coherence tomography angiography (OCTA)** images for studying vascular changes in retinal diseases.
+**OCTA-ReVA<sup>+</sup>** is an open-source toolbox that enables **automated artery–vein (AV) segmentation** and **quantitative feature analysis** on **optical coherence tomography angiography (OCTA)** images for studying vascular changes in retinal diseases.
 
 # Features
 - **Quantitative OCTA metrics** (BVD, VSD, BVC, BVT, VPI, VCI, FAZ, PID, VAF, NBFI, FAZ-A, FAZ-P, FAZ-CI).
@@ -25,11 +25,11 @@ The installer is a **standalone installer (.exe)** that includes all necessary d
 - **National Eye Institute**
 - **Research to Prevent Blindness**
 - **Richard and Loan Hill Endowment**
-- All contributors who participated in the development and enhancement of the OCTA-AV toolbox.
+- All contributors who participated in the development and enhancement of the OCTA-ReVA<sup>+</sup> toolbox.
 
 # Citation
-If you use **OCTA-AV** in your research, please cite:
-M. A. Sadhin, A. K. Dadzie, B. Ebrahimi, M. Abtahi, A. H. Sadhin, T. Son, M. J. Heiferman, J. I. Lim, and X. Yao, “OCTA-AV: An open-source toolbox for artery-vein segmentation and vascular analysis in OCTA.”
+If you use **OCTA-ReVA<sup>+</sup>** in your research, please cite:
+M. A. Sadhin, A. K. Dadzie, B. Ebrahimi, M. Abtahi, A. H. Sadhin, T. Son, M. J. Heiferman, J. I. Lim, and X. Yao, “OCTA-ReVA<sup>+</sup>: an open-source toolbox for retinal artery–vein segmentation and analysis in OCT angiography.”
 
 # Contact & Support
 - **Lead Developer:** Masrur Arefin Sadhin – [msadh@uic.edu](mailto:msadh@uic.edu)
